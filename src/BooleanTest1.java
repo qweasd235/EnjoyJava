@@ -18,6 +18,5 @@ public class BooleanTest1 {
         System.out.println(flag4);
         System.out.println(flag5);
 
-        System.out.println("git commit 테스트");
     }
 }
