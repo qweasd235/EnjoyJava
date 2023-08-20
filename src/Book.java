@@ -1,3 +1,7 @@
+/**
+ @author ChoiUk
+ @version 1.0
+ */
 public class Book {
     private String title;
     private int price;
